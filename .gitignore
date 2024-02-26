@@ -1,0 +1,6 @@
+# General
+.vscode
+
+# Task 1
+task_1/data/winequality-white.csv
+task_1/data/winequality-red.csv
