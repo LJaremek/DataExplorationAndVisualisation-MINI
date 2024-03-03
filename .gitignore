@@ -4,3 +4,6 @@
 # Task 1
 task_1/data/winequality-white.csv
 task_1/data/winequality-red.csv
+task_1/.Rproj.user
+task_1/.RData
+task_1/.Rhistory
